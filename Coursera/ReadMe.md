@@ -1,5 +1,4 @@
 # Coursera Certficates
------------------------
 
 This repo contains all my completed Coursera Certificates.
 
